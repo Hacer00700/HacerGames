@@ -8,6 +8,8 @@
 <p>
   This is where i put my links to games.</p>
     <a href="https://hace00700alt.pencilcode.net/home/TurtlePolice">TurtlePD</a>
+    <a href="https://discdamoose-on-twitter.itch.io/coronavirrus-shootin-game">shoot the virus</a>
+    
     <!-- Start of LiveChat (www.livechat.com) code -->
 <script>
     window.__lc = window.__lc || {};
