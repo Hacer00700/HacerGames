@@ -9,6 +9,7 @@
   This is where i put my links to games.</p>
     <a href="https://hace00700alt.pencilcode.net/home/TurtlePolice">TurtlePD</a>
     <a href="https://discdamoose-on-twitter.itch.io/coronavirrus-shootin-game">shoot the virus</a>
+    <a href="https://scratch.mit.edu/projects/572075759/">Avoid the ball</a>
     
     <!-- Start of LiveChat (www.livechat.com) code -->
 <script>
