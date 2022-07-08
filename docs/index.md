@@ -11,6 +11,9 @@
     <a href="https://discdamoose-on-twitter.itch.io/coronavirrus-shootin-game">shoot the virus</a>
     <a href="https://scratch.mit.edu/projects/572075759/">Avoid the ball(Scratch)</a>
     
+    <p> You can chat to me whereverer you are through this link https://direct.lc.chat/14279670/ </p>
+  
+    
     <!-- Start of LiveChat (www.livechat.com) code -->
 <script>
     window.__lc = window.__lc || {};
